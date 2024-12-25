@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://shuyi-song.github.io/hpm883.github.io/'
-baseurl:          '/jekyll-gitbook'
+url:              'https://shuyi-song.github.io/'
+baseurl:          '/hpm883.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
