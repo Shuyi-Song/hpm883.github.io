@@ -68,7 +68,6 @@ The following are supplemental texts which you may also find useful:
   - Consistent effort.
   - Demonstrated understanding of key concepts.
 
----
 
  **Homework Assignments** (25% of Grade)
 - **Objective:** To reinforce foundational concepts in **Experimental Design**, **Supervised/Unsupervised Machine Learning**, and **Causal Machine Learning**.
@@ -81,7 +80,6 @@ The following are supplemental texts which you may also find useful:
   - Demonstrated understanding of class concepts.
   - Clarity in presenting results.
 
----
 
  **In-Class Exercises** (10% of Grade)
 - **Objective:** To provide hands-on practice with theoretical concepts in a collaborative learning environment.
@@ -91,7 +89,6 @@ The following are supplemental texts which you may also find useful:
   - Participation and effort.
   - Accuracy and thoughtfulness in responses.
 
----
 
  **Midterm Project** (25% of Grade)
 - **Objective:** A practical application of methods covered in the first half of the course.
@@ -104,7 +101,7 @@ The following are supplemental texts which you may also find useful:
   - Clarity and organization in the written report.
   - Originality and engagement with the assigned task.
 
----
+
 
  **Final Research Paper** (30% of Grade)
 - **Objective:** To apply the techniques learned throughout the course to a health services research question of the student’s choice.
