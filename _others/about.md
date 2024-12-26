@@ -1,7 +1,7 @@
 ---
 title: About others
-author: Tao He
-date: 2022-02-04
+author: Sean Sylvia
+date: 2024-12-25
 category: Jekyll
 layout: post
 ---
