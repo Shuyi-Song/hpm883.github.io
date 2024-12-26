@@ -118,9 +118,3 @@ The following are supplemental texts which you may also find useful:
   - Correct and thorough application of methods.
   - Quality and clarity of writing.
   - Depth of discussion and interpretation of results.
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
