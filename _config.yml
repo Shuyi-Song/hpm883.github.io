@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            HPM 883 
+longtitle:        Advanced Quantitative Methods in Health Policy and Management
+author:           Sean Sylvia
+email:            sean.sylvia@unc.edu
 description: >
-  Build Jekyll site with the GitBook style.
+  HPM 883 Advanced Quantitative Methods in Health Policy and Management Course Website
 
 version:          1.0
 gitbook_version:  3.2.3
