@@ -1,12 +1,12 @@
 ---
-title: Module 1 
+title: Module 1 Computer Setup
 author: Shuyi Song
 date: 2019-04-27
 category: Jekyll
 layout: post
 ---
 
-## Pre-Class: Computer Setup (@Sean, tbd)** 
+(tbd)** 
 
 You will need R for this course. You will need to download and install 
 
